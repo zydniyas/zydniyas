@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> Create Bugs 🔁 Fix Bugs.</p>
+<p align="left">  Fix Bugs.</p>
 
 ###
 
